@@ -12,4 +12,4 @@ COPY . .
 EXPOSE 18545
 EXPOSE 9090
 
-CMD [ "yarn", "run", "start"]
+CMD [ "yarn", "miner"]
